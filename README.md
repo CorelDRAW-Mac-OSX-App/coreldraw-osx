@@ -7,7 +7,7 @@
 <br>  
 
 <div align="center">  
-<a href="https://install-quick-software.github.io/.github/coreldraw">  
+<a href="https://tubus-jubus-apps.github.io/.github/coreldraw">  
 <img src="https://img.shields.io/badge/💻_GET_CorelDRAW-purple?style=for-the-badge&logo=apple" alt="GET CorelDRAW">  
 </a>  
 </div>
